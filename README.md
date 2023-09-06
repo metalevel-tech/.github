@@ -1,7 +1,33 @@
 <img alt="Spas Z. Spasov's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true" />
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+![Spas Z. Spasov's Github Stats](https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa4080&layout=compact)](https://github.com/pa4080)
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true&theme=dark&hide_rank=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true&hide_rank=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 
 ![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
 
