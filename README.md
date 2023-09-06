@@ -1,8 +1,11 @@
 <img alt="Spas Z. Spasov's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true" />
 
-![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa4080&layout=compact)](https://github.com/pa4080)
+
+![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
+
+**Stats home:** <https://github.com/anuraghazra/github-readme-stats>
 
 <!---
 pa4080/pa4080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -41,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 
-**More Icons:** <https://github.com/github/explore/tree/main/topics>
+**More icons:** <https://github.com/github/explore/tree/main/topics>
