@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa4080&layout=compact)](https://github.com/pa4080)
+
 <!---
 pa4080/pa4080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
