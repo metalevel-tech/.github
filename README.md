@@ -1,3 +1,7 @@
+# Profile README.md Examples
+
+_**Note:** the organisations profile description can me edited at [profile/README.md](profile/README.md)_
+
 ![Profile Views](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
 
 **Profile views home:** <https://github.com/antonkomarev/github-profile-views-counter>
@@ -79,3 +83,14 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 -->
+
+<details align="left">
+  <summary>Credits</summary> 
+ 
+  - Badges by <a href="https://shields.io/">shields.io</a><br>
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+ 
+  <div align="right">Made with 💜 by <a href="https://github.com/elidianaandrade">EA</a>.</div>
+
+</details>
