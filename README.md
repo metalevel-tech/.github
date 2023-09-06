@@ -1,4 +1,4 @@
-<img alt="pipipi-pikachu's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true" />
+<img alt="Spas Z. Spasov's Github Stats" width="400" src="https://github-readme-stats.vercel.app/api?username=pa4080&show_icons=true" />
 
 ![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
 
